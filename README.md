@@ -1,6 +1,6 @@
 # Projeto - Pata Cola 🦆
 
-Pata Cola é uma assistente virtual desenvolvida para facilitar a comunicação e gestão de informações em escolas infantis.
+Pata Cola é uma assistente virtual desenvolvida para facilitar a comunicação e gestão de informações na escola infantil PataCola.
 O projeto foi criado para a disciplina de Programação para Dispositivos Móveis, com foco em criar uma interface intuitiva e amigável para pais, professores e alunos.
 A assistente ajuda em diversas atividades do dia a dia escolar, proporcionando um ambiente mais conectado e organizado.
 
