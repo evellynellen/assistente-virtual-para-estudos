@@ -15,7 +15,7 @@ A assistente ajuda em diversas atividades do dia a dia escolar, proporcionando u
 ## Tecnologias utilizadas 🛠️
 React Native
 Expo
-IA meta 
+IA meta Llama 3
 Proporsta Figma: https://www.figma.com/design/L8DVwWa6Rxc6vw9vLEWuax/Untitled?node-id=0-1&t=1gKYeba5xDR7MZzK-1
 
 
