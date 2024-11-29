@@ -7,7 +7,7 @@ npm install -g expo-cli
 
 ## Instalação <br>
 1. Clone o repositório:
-git clone https://github.com/Jeansk9/EducationStudies.git
+git clone https://github.com/evellynellen/assistente-virtual-para-estudos.git
 2. Acesse o diretório do projeto:
 cd EducationStudies
 3. Instale as dependências:
